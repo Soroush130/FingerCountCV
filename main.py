@@ -1,8 +1,6 @@
 import cv2
 import mediapipe as mp
 
-from utility import calculate_bisector
-
 mediapipHands = mp.solutions.hands
 hands = mediapipHands.Hands()
 Draw = mp.solutions.drawing_utils
