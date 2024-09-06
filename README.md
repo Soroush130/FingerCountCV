@@ -49,7 +49,7 @@ source venv/bin/activate
 4. Install required libraries:
 
 ```bash
-pip install opencv-python mediapipe pycaw comtypes
+pip install opencv-python mediapipe
 ```
 
 ## Usage
